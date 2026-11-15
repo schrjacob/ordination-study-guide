@@ -84,6 +84,18 @@ Pages can include HTML comments that the website ignores but the booklet builder
 
 Pages default to two columns after their title, matching the original booklet.
 
+## Anki Deck
+
+`anki/Ordination Study Guide.apkg` holds flashcards generated from the same pages: about 1,300 notes in subdecks under **Ordination** (one per page), tagged by exam (`bible`, `theology`, `church-government`, `church-history`, `sacraments`) and tier (`tier1`, `tier2`, `tier3`).
+
+Rebuild after editing pages:
+
+```bash
+.venv/Scripts/python scripts/build_anki.py
+```
+
+Re-importing the file updates changed cards and keeps your review history (notes keep a stable ID). A card whose prompt changes counts as a new card.
+
 ## Publishing to GitHub Pages
 
 1. Create a GitHub repository and push this folder to its `main` branch.
