@@ -2,8 +2,6 @@
 
 <!-- cols:1 continuous -->
 
-Chapell, section I: *"Identify passages someone could read about..."* Lead with the **bold** passage (the one to name first if asked); the rest are backups. Many of these double as theology proof texts.
-
 | # | Topic | Passages |
 |---|---|---|
 | 1 | Atonement | **Rom. 3:21-26**; Mark 10:45; 2 Cor. 5:21; Heb. 9-10; 1 Pet. 2:24; 1 John 2:2; 4:10 (Isa. 53) |

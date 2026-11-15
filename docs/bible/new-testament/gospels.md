@@ -2,9 +2,6 @@
 
 <!-- cols:1 continuous -->
 
-!!! info "Exam level: full outlines"
-    Chapell expects **outlines of all four Gospels** and asks: *"What are the distinctive features of each of the four gospels?"* Matthew and John get the most detail here: Matthew because it holds the most "locate this passage" items, John because it is the most distinctive.
-
 ## Distinctives of the Four Gospels
 
 | | Matthew | Mark | Luke | John |

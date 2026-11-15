@@ -2,8 +2,6 @@
 
 <!-- cols:1 continuous -->
 
-Chapell, church government sections G ("Principles of Discipline," chapters 27-30), H ("The Process of Discipline," chapters 31-38), and I ("Review and Control; Jurisdiction," chapters 39-46). This is the **Rules of Discipline**. The **Tier** column ranks each question (1 = know cold, 2 = second pass, 3 = if time allows). Checked against the BCO text through the 2026 General Assembly (see the note on the [overview](index.md)); deadlines and procedures are the kind of detail that is amended.
-
 ## G. Principles of Discipline (Chapters 27-30)
 
 | Tier | Question | Answer and proofs |

@@ -2,7 +2,7 @@
 
 <!-- cols:1 continuous -->
 
-Chapell, theology section E, "God's Way of Salvation." Standards: **WCF 7-8; WLC 20, 30-56; WSC 12, 20-28.** The **Tier** column ranks each question (1 = know cold, 2 = second pass, 3 = if time allows).
+Standards: **WCF 7-8; WLC 20, 30-56; WSC 12, 20-28**.
 
 ## The Covenants
 

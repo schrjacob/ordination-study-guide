@@ -2,8 +2,6 @@
 
 <!-- cols:1 continuous -->
 
-Chapell, church government sections E ("Church Orders," chapters 16-24) and F ("Congregational Meetings; Amending the Constitution," chapters 25-26). The **Tier** column ranks each question (1 = know cold, 2 = second pass, 3 = if time allows). Checked against the BCO text through the 2026 General Assembly (see the note on the [overview](index.md)).
-
 ## E. Church Orders (Chapters 16-24)
 
 | Tier | Question | Answer and proofs |

@@ -2,7 +2,7 @@
 
 <!-- cols:2 continuous -->
 
-**39 books.** Chapell asks: *"Name the general divisions of the Old Testament and the books in each."* Know the **English (Christian) order** cold. The **Hebrew order** (Law, Prophets, Writings, or *Tanakh*) is good to know because Jesus refers to it ("the Law of Moses and the Prophets and the Psalms," Luke 24:44).
+**39 books.** Jesus refers to the Hebrew order: "the Law of Moses and the Prophets and the Psalms" (Luke 24:44).
 
 ## English Divisions
 

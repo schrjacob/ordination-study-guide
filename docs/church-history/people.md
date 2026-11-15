@@ -2,8 +2,6 @@
 
 <!-- cols:1 continuous -->
 
-Chapell, church history section E: *"Briefly identify the following people with date (century) and their significance."* These are Chapell's 41 names, in his order. The **Tier** column ranks each (1 = know cold, 2 = second pass, 3 = if time allows). Dates are approximate for early figures; verify them against a reliable text.
-
 ## The Early Church (1st-5th centuries)
 
 | Tier | Person | Dates | Significance |

@@ -2,11 +2,6 @@
 
 <!-- cols:1 continuous -->
 
-Chapell, church history section F, "Study Questions on the History of the PCA." Ordination requires an exam on **the history of the Presbyterian Church in America** (BCO 21-4). The **Tier** column ranks each question (1 = know cold, 2 = second pass, 3 = if time allows).
-
-!!! info "How this page was checked"
-    The history of the PCA's founding, the RPCES, and the Auburn Affirmation was checked against the **PCA Historical Center** (pcahistory.org): its *50th Anniversary* timeline, the General Assembly minutes index, the text of the 1973 *Message to All Churches*, the Auburn Affirmation page, and its record-group pages. Items marked **(not checked)** come from standard histories (Chapell's bibliography: **Kennedy Smartt**, *I Am Reminded*; **Ken Keyes**, "A Brief History of the PCA"; **Jerry Kornegay**, *Living History of the PCA*; **Paul Settle**, *To God All Praise and Glory*; **Bradley Longfield**, *The Presbyterian Conflict*; **Morton Smith**, "The Southern Tradition") and should be confirmed in one of them.
-
 ## American Presbyterianism
 
 | Tier | Question | Answer |

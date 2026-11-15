@@ -1,8 +1,5 @@
 # Major Prophets
 
-!!! info "Exam level: Isaiah, Jeremiah, Ezekiel, and Daniel need outlines"
-    Chapell expects **outlines** for Isaiah, Jeremiah, Ezekiel, and Daniel. Lamentations needs only a **summary**. Learn the top-level divisions first, then the key chapters.
-
 ## Isaiah (66)
 
 *Salvation Is of the LORD*

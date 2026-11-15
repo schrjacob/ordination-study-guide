@@ -2,48 +2,7 @@
 
 <!-- cols:1 continuous -->
 
-This section follows Bryan Chapell and Jim Meek, ***Preparing for Licensure and Ordination Exams*** (PCA Christian Education and Publications, 2002), section IV, "Study Questions on Church Government and Discipline." Chapell's questions follow the order of the chapters of the **Book of Church Order (BCO)**, and so do these pages. The BCO has three parts: the **Form of Government** (chapters 1-26), the **Rules of Discipline** (27-46), and the **Directory for Worship** (47-63).
-
-!!! info "Checked against the BCO text"
-    These answers were checked against the text of the BCO published by the PCA's Administrative Committee at pcaac.org, which includes amendments through the 53rd General Assembly (2026). The BCO is amended almost every year, so **check the current text** and your presbytery's manual before the exam. Section numbers (for example BCO 21-4) are cited so you can look each one up.
-
-## What the PCA Requires
-
-| | Licensure (BCO 19-2) | Ordination (BCO 21-4) |
-|---|---|---|
-| **Church government** | "Basic knowledge of the government of the Presbyterian Church in America as defined in the Book of Church Order" | "The principles and rules of the government and discipline of the church" |
-
-Chapell opens the section with two questions: *Have you read the Book of Church Order? Are you aware of any of its principles about which you have reservations?* Read the whole BCO, with the Preface and the Preliminary Principles, at least once. Keep a list of any point you question, and be ready to state it honestly.
-
-## How Chapell Organizes the Questions
-
-<!-- docx-skip -->
-| Chapell section (BCO chapters) | Topic | Page |
-|---|---|---|
-| A. Preface and Principles (Preface, 1) | The head of the church; key principles; the Constitution | This page |
-| B. The Church and Its Members (2-6) | Visible church, power of the church, particular and mission churches, members | This page |
-| C. Church Officers (7-9) | Elders (teaching and ruling), deacons | [Officers and Courts](officers-courts.md) |
-| D. Church Courts (10-15) | Session, presbytery, General Assembly; committees and commissions | [Officers and Courts](officers-courts.md) |
-| E. Church Orders (16-24) | Call to office, candidates, licensure, calling a pastor, ordination, elections | [Calling and Meetings](calling-meetings.md) |
-| F. Congregational Meetings; Amending (25-26) | Meetings, property, amendments | [Calling and Meetings](calling-meetings.md) |
-| G. Principles of Discipline (27-30) | Discipline, its goal and steps, censures | [Discipline and Review](discipline.md) |
-| H. The Process of Discipline (31-38) | Charges, witnesses, trial, censure | [Discipline and Review](discipline.md) |
-| I. Review and Control; Jurisdiction (39-46) | Reference, appeal, complaint, members who move | [Discipline and Review](discipline.md) |
-| J. The Directory for Worship (47-63) | Worship, Lord's Day, baptism and Lord's Supper vows | [Worship](worship.md) |
-<!-- /docx-skip -->
-
-## If Time Is Short: Study in Tiers
-
-Each question on these pages carries a **Tier** number in its first column. The tiers are a study judgment: what examiners ask most often and what everything else builds on.
-
-!!! success "Tier 1: know cold"
-    **Christ is the only head** and Scripture the only rule; the **key principles** of Presbyterian government; the **three kinds of officers** and their qualifications and duties; **parity** of elders; the **three courts** and what each does; **how a man is called, examined, and ordained**; the **goal and steps** of discipline (Matt. 18) and the **censures**; and the **elements of worship** and who admits to the Lord's Supper.
-
-!!! warning "Tier 2: second pass"
-    The **powers of church and state compared**; **mission churches**; the **members of each court** and how churches and ministers are received; **committees** versus **commissions**; **candidates, licentiates, and internship**; **dissolving a pastoral relation**; **congregational meetings** and **property**; and **review and control** (reference, appeal, complaint).
-
-!!! note "Tier 3: if time allows"
-    Details of amendment procedures; the **associate member**; the **permanent committees** of the General Assembly; and the finer points of procedure.
+The BCO has three parts: the **Form of Government** (chapters 1-26), the **Rules of Discipline** (27-46), and the **Directory for Worship** (47-63).
 
 ## A. Preface and Principles (Preface and Chapter 1)
 

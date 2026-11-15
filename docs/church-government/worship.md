@@ -2,8 +2,6 @@
 
 <!-- cols:1 continuous -->
 
-Chapell, church government section J, "The Directory for Worship" (chapters 47-63). This is the third part of the BCO. For the **theology** of worship (the regulative principle and the elements), see [The Christian Life](../theology/christian-life.md); for the **sacraments**, see [Sacraments](../sacraments/index.md). The **Tier** column ranks each question (1 = know cold, 2 = second pass, 3 = if time allows). Checked against the BCO text through the 2026 General Assembly (see the note on the [overview](index.md)).
-
 | Tier | Question | Answer and proofs |
 |---|---|---|
 | 1 | What parts of the Directory for Worship have constitutional authority (if any)? | The BCO's own preface to the Directory states: "The Directory for Worship is an **approved guide** and should be taken seriously as the mind of the Church agreeable to the Standards. However, it **does not have the force of law** and is not to be considered obligatory in all its parts. **BCO 56, 57 and 58** (baptism, admission to sealing ordinances, and the Lord's Supper) have been given **full constitutional authority** by the Eleventh General Assembly after approval by two-thirds of the presbyteries. **BCO 59-3** (marriage as only between one man and one woman) has been given full constitutional authority by the Forty-seventh General Assembly." |

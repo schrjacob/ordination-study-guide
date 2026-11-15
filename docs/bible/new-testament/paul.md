@@ -2,9 +2,9 @@
 
 <!-- cols:1 continuous -->
 
-Chapell: *"Relate the writing of the Pauline epistles to the life of Paul,"* and locate the *"Conversion of Paul,"* *"Jerusalem Council,"* and *"Missionary journeys."* Dates are approximate; scholars differ by a year or two.
+Dates are approximate.
 
-!!! tip "Memory aid: letters by journey"
+!!! tip "Letters by journey"
     **1st journey > Galatians** (if the "South Galatian" view is right) · **2nd > Thessalonians** (from Corinth) · **3rd > Corinthians and Romans** · **Rome (1st imprisonment) > Prison Epistles** · **Released > 1 Timothy, Titus** · **Rome (2nd imprisonment) > 2 Timothy**, his last letter.
 
 ## Paul's Life and Letters

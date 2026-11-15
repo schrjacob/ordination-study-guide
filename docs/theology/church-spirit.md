@@ -2,7 +2,7 @@
 
 <!-- cols:1 continuous -->
 
-Chapell, theology sections I ("The Church") and K ("Other Questions," chiefly the Holy Spirit). Standards: **WCF 25-26, 30-31; WLC 61-66, 69, 82-83, 86** (Chapell lists no Shorter Catechism questions for section I). Hot topics here: **role of women in the church**, **confessional subscription**, and **charismatic gifts**. On hot topics, state and defend your **own** view; the notes give the Standards' position and the main alternatives. The **Tier** column ranks each question (1 = know cold, 2 = second pass, 3 = if time allows).
+Standards: **WCF 25-26, 30-31; WLC 61-66, 69, 82-83, 86**. Hot topics: **role of women in the church**, **confessional subscription**, and **charismatic gifts**.
 
 ## I. The Church
 

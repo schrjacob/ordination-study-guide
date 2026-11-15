@@ -1,7 +1,5 @@
 # NT Key Passages
 
-Chapell, section H: *"Know books and chapters for the following New Testament passages."* These are Chapell's 60, in his order. Cover the right-hand column and quiz yourself.
-
 | # | Passage | Location |
 |---|---|---|
 | 1 | Birth of Jesus (shepherds) | **Luke 2** |
@@ -65,7 +63,7 @@ Chapell, section H: *"Know books and chapters for the following New Testament pa
 | 59 | The millennium | **Rev. 20:1-10** |
 | 60 | The Good Samaritan | **Luke 10:25-37** |
 
-!!! tip "Pattern-spotting makes this list easier"
+!!! tip "Patterns"
     - **1-16** are mostly **Matthew** (with Luke for the shepherds, prodigal, Mary and Martha, and Good Samaritan).
     - **17-24** are all **John**: Comforter (14-16), born again (3), well (4), way (14), 5,000 (6), vine (15), shepherd (10), prayer (17).
     - **25-30** run through Passion Week to the ascension.

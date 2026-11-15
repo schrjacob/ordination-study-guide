@@ -2,8 +2,6 @@
 
 <!-- cols:1 continuous -->
 
-Chapell: *"Outline the life of Christ. Name, locate and briefly discuss three of Jesus' parables [and] three of Jesus' miracles."* Also *"Define the following names: Jesus, Christ, Lord, Son of Man, Son of God, Lamb of God"* (Theology E).
-
 ## Chronology
 
 | Question | Answer |
@@ -119,7 +117,7 @@ Matthias replaced Judas (Acts 1:26). The inner circle: Peter, James, and John.
 
 ## Three Parables (and More)
 
-!!! example "Know these three well"
+!!! example "Three parables"
     1. **The Sower** (Matt. 13:1-23; Mark 4:1-20; Luke 8:4-15): the word of the kingdom meets four kinds of soil. The kingdom grows through the Word, but people receive it in different ways; only the "good soil" bears fruit.
     2. **The Good Samaritan** (Luke 10:25-37): answers "Who is my neighbor?" The despised Samaritan shows mercy where religious leaders passed by. Love crosses every boundary ("Go and do likewise").
     3. **The Prodigal Son** (Luke 15:11-32): the father runs to welcome his repentant son. God rejoices over sinners who repent; the elder brother exposes the self-righteousness of the Pharisees.
@@ -140,7 +138,7 @@ Matthias replaced Judas (Acts 1:26). The inner circle: Peter, James, and John.
 
 ## Three Miracles (and More)
 
-!!! example "Know these three well"
+!!! example "Three miracles"
     1. **Water into wine** at Cana (John 2:1-11): the first sign. It "manifested his glory," and the new wine of the kingdom replaces the water of Jewish purification.
     2. **Feeding of the 5,000** (Matt. 14; Mark 6; Luke 9; John 6): the only miracle in all four Gospels. Jesus is the true bread from heaven (John 6:35), the new Moses providing manna.
     3. **Raising of Lazarus** (John 11): "I am the resurrection and the life." This seventh sign shows his power over death and precipitates the plot to kill him.

@@ -1,9 +1,5 @@
 # Pauline Epistles
 
-!!! info "Exam level"
-    **Outlines:** Romans, 1-2 Corinthians, Galatians, Ephesians, Philippians, Colossians. Romans gets the most detail: it is the backbone of the theology exam too.
-    **Summaries:** 1-2 Thessalonians, 1-2 Timothy, Titus, Philemon. See [Life of Paul](paul.md) for when and where each was written.
-
 ## Romans (16)
 
 *The Righteousness of God Revealed in the Gospel*

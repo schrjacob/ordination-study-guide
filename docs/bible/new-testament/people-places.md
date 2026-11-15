@@ -2,8 +2,6 @@
 
 <!-- cols:1 continuous -->
 
-Chapell: *"Discuss briefly the significance of the following. Include book(s) and chapter(s) where relevant."* Names marked ★ are on Chapell's list.
-
 ## Key People and Groups
 
 | Person / group | Where | Significance |

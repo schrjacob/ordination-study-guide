@@ -2,8 +2,6 @@
 
 <!-- cols:1 continuous -->
 
-Chapell, sections D and E: *"Locate the following passages by book and chapter"* and *"Locate these events by book and chapter (and date where asterisked)."* Chapell's items are marked ★; the others are frequent follow-ups.
-
 ## Key Passages
 
 | Passage | Location | Notes |

@@ -2,11 +2,7 @@
 
 <!-- cols:1 continuous -->
 
-Chapell, church history sections B ("Denominations"), C ("Events"), and D ("Definitions"). The **Tier** column ranks each question (1 = know cold, 2 = second pass, 3 = if time allows). Dates are standard but verify them against a reliable text.
-
 ## B. Denominations
-
-Chapell: *"What are the historical origins and distinctives of the following?"*
 
 | Tier | Denomination | Origins | Distinctives |
 |---|---|---|---|
@@ -20,8 +16,6 @@ Chapell: *"What are the historical origins and distinctives of the following?"*
 | 2 | **Orthodox** (Eastern Orthodox) | The Eastern half of the early church, centered in **Constantinople**; the **Great Schism of 1054** from Rome (over the **filioque** clause in the Creed and the **papal primacy**); strong in Greece, the Balkans, Russia (from **988**). | Acceptance of the **seven ecumenical councils**; **tradition** alongside Scripture; **liturgy** and **icons**; **theosis** (deification) as the goal of salvation; **autocephalous** national churches under **patriarchs**; **no papal supremacy**; the Trinity without the *filioque*. |
 
 ## C. Events
-
-Chapell: *"Briefly identify and give dates for the following."*
 
 | Tier | Event | Date | Significance |
 |---|---|---|---|
@@ -39,8 +33,6 @@ Chapell: *"Briefly identify and give dates for the following."*
 | 2 | **Auburn Affirmation** | **1923** (published **1924**) | A declaration signed by about **1,274** Presbyterian ministers (PCUSA) protesting the **General Assembly's** requirement of the **"five fundamentals"** (1923) and defending **doctrinal liberty**; seen as a victory for **modernism** in the northern church and a key moment in the **fundamentalist-modernist** controversy. |
 
 ## D. Definitions
-
-Chapell: *"Briefly define."*
 
 | Tier | Term | Definition |
 |---|---|---|

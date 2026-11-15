@@ -1,8 +1,5 @@
 # Historical Books
 
-!!! tip "Exam level: book contents (summary)"
-    Chapell lists Joshua through Esther under **Book Contents**: be able to say in a word or phrase what each book is about. The outlines and key chapters below are a bonus. Spend your time on the **one-line summary, key events, and dates**. See the [OT Timeline](timeline.md).
-
 ## Joshua (24)
 
 *Faithfulness and Possession of the Promised Land*

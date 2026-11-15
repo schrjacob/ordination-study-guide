@@ -1,8 +1,5 @@
 # Acts
 
-!!! info "Exam level: full outline"
-    Chapell expects an **outline of Acts** and asks: *"What are the basic elements found in each of the sermons recorded in Acts?"* Key passages to locate include Pentecost, Paul's conversion, the Jerusalem Council, the missionary journeys, the Philippian jailer, the Bereans, and Apollos.
-
 ## Acts (28)
 
 *The Risen Christ Builds His Church by the Spirit, from Jerusalem to Rome*

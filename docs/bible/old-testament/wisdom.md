@@ -1,8 +1,5 @@
 # Poetry & Wisdom
 
-!!! tip "Exam level: book contents (summary)"
-    Chapell lists Job through Song of Songs under **Book Contents**. Know the one-line summary of each book. For Psalms, know the **five books**, the main **genres**, and the **messianic psalms** (2, 22, 110), which Chapell names as a key passage.
-
 ## Job (42)
 
 *Suffering and the Wisdom and Sovereignty of God*

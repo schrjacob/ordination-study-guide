@@ -2,7 +2,7 @@
 
 <!-- cols:1 continuous -->
 
-Chapell, theology section D. Standards: **WCF 4, 6, 9; WLC 14-17, 21-29; WSC 8-10, 13-19.** The **Tier** column ranks each question (1 = know cold, 2 = second pass, 3 = if time allows).
+Standards: **WCF 4, 6, 9; WLC 14-17, 21-29; WSC 8-10, 13-19**.
 
 ## Creation and the Image of God
 
@@ -30,7 +30,7 @@ Chapell, theology section D. Standards: **WCF 4, 6, 9; WLC 14-17, 21-29; WSC 8-1
 
 ## The Will of Man
 
-Chapell: *"Is the will of man free? Explain (include Scripture proofs)."* WCF 9 gives the answer in four states.
+WCF 9 gives the answer in four states.
 
 | Tier | Question | Answer and proofs |
 |---|---|---|

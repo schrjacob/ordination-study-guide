@@ -2,7 +2,7 @@
 
 <!-- cols:1 continuous -->
 
-Chapell, theology section L. The PCA examines the sacraments **separately** from theology (BCO 21-4). Standards: **WCF 27-29; WLC 161-177; WSC 91-97** (Chapell assigns **WSC 88 and 91-98** for memorization). The Directory for Worship's chapters on baptism, admission to sealing ordinances, and the Lord's Supper (**BCO 56-58**) have full constitutional authority; see also [Worship](../church-government/worship.md). Hot topics here: **re-baptism**, **paedo-communion**, and **fencing the Lord's Table**. On hot topics, state and defend your **own** view; the notes give the Standards' position and the main alternatives. The **Tier** column ranks each question (1 = know cold, 2 = second pass, 3 = if time allows).
+Standards: **WCF 27-29; WLC 161-177; WSC 91-97; BCO 56-58**. Hot topics: **re-baptism**, **paedo-communion**, and **fencing the Lord's Table**.
 
 ## The Sacraments in General
 

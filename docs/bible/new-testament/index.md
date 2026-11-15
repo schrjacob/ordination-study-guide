@@ -2,7 +2,7 @@
 
 <!-- cols:1 continuous -->
 
-**27 books.** Chapell asks: *"Name the general divisions of the New Testament and the books in each. Which are the 'Prison Epistles'? The 'Pastoral Epistles'? The 'Catholic (or General) Epistles'?"*
+**27 books.**
 
 | Division | Books | # |
 |---|---|---|
@@ -12,7 +12,7 @@
 | **General (Catholic) Epistles** | Hebrews, James, 1-2 Peter, 1-3 John, Jude | 8 |
 | **Prophecy** | Revelation | 1 |
 
-!!! note "Groupings to know"
+!!! note "Groupings"
     - **Prison Epistles:** Ephesians, Philippians, Colossians, Philemon, written during Paul's first Roman imprisonment (AD 60-62; Acts 28). Memory aid: they follow Galatians in canonical order ("**G**o **E**at **P**op**C**orn": Gal., Eph., Phil., Col.); drop Galatians and add Philemon.
     - **Pastoral Epistles:** 1 Timothy, 2 Timothy, Titus: instructions to Paul's delegates on church order and ministry.
     - **Catholic (General) Epistles:** James, 1-2 Peter, 1-3 John, Jude. They are "catholic" (universal) because they are addressed to the church at large rather than to one congregation. Hebrews is sometimes included.
@@ -50,9 +50,3 @@
 | 26 | **Jude** | Jude, the Lord's brother | 60s | Contend for the faith against apostates |
 | 27 | **Revelation** | John | c. 95 | The Lamb's victory and the new creation |
 
-## Which Books Need Outlines?
-
-Following Chapell's schedule:
-
-- **Outlines:** Matthew, Mark, Luke, John, Acts, Romans, 1-2 Corinthians, Galatians, Ephesians, Philippians, Colossians, Hebrews, Revelation
-- **Summaries only:** 1-2 Thessalonians, the Pastorals, Philemon, James, 1-2 Peter, 1-3 John, Jude

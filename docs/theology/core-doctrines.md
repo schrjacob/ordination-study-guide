@@ -2,11 +2,7 @@
 
 <!-- cols:1 continuous -->
 
-Chapell: *"These 'doctrines and proofs' are so frequently asked in licensure and ordination exams that candidates should have these answers 'down pat.'"* For each, be able to give the **reference and the full quotation**. All of this page is Tier 1.
-
 ## The Five Points of Calvinism (TULIP)
-
-Chapell: *"Briefly define each of the 'five points' and cite two proof texts for each (both reference and full quotation). Some texts may support more than one point."* He also asks: *"Where did they come from?"*
 
 **Origin.** After Jacobus Arminius died (1609), his followers presented five articles of protest, the **Remonstrance** (1610), against Reformed teaching on election, atonement, grace, and perseverance. The **Synod of Dort** (1618-19) answered with the **Canons of Dort**, which teach what came to be summarized as the "five points." The acronym TULIP is a later memory aid; the points are not the whole of Reformed theology, only its answer to five specific objections.
 
@@ -18,14 +14,14 @@ Chapell: *"Briefly define each of the 'five points' and cite two proof texts for
 | **I** | **Irresistible grace** (effectual calling) | The Spirit's inward call always overcomes the sinner's resistance and brings the elect to faith; he does not coerce the will but changes it. | **John 6:37:** "All that the Father gives me will come to me, and whoever comes to me I will never cast out."<br>**Ezek. 36:26-27:** "And I will give you a new heart, and a new spirit I will put within you. And I will remove the heart of stone from your flesh and give you a heart of flesh. And I will put my Spirit within you, and cause you to walk in my statutes and be careful to obey my rules." |
 | **P** | **Perseverance of the saints** | Those whom God has chosen, called, and justified will persevere in faith to the end, because God preserves them. | **John 10:28-29:** "I give them eternal life, and they will never perish, and no one will snatch them out of my hand. My Father, who has given them to me, is greater than all, and no one can snatch them out of the Father's hand."<br>**Phil. 1:6:** "And I am sure of this, that he who began a good work in you will bring it to completion at the day of Jesus Christ." |
 
-Chapell's own list of texts also includes: **T:** Jer. 17:9; Eph. 2:1-3; Rom. 8:7-8 · **U:** John 6:37, 39; Eph. 1:11; 2:8-10; Titus 3:5 · **L:** John 6:37, 44; 10:11, 14-16; Rom. 8:29-30 · **I:** John 6:37, 44, 65; 10:16; Acts 11:18; 13:48; Phil. 2:11-13 · **P:** John 6:44; Rom. 8:29-30; Phil. 1:6.
+More texts: **T:** Jer. 17:9; Eph. 2:1-3; Rom. 8:7-8 · **U:** John 6:37, 39; Eph. 1:11; 2:8-10; Titus 3:5 · **L:** John 6:37, 44; 10:11, 14-16; Rom. 8:29-30 · **I:** John 6:37, 44, 65; 10:16; Acts 11:18; 13:48; Phil. 2:11-13 · **P:** John 6:44; Rom. 8:29-30; Phil. 1:6.
 
 !!! tip "Say it right"
     The Reformed do not teach that the five points are five separate doctrines. They are one doctrine, **salvation is of the Lord** (Jonah 2:9), viewed from five sides. Each depends on the others: if sinners are dead (T), only God's choice (U), Christ's actual saving work (L), and the Spirit's effectual call (I) can save them, and he finishes what he begins (P).
 
 ## The Ordo Salutis (Order of Salvation)
 
-Chapell: *"List clearly the parts of the ordo as you understand it and cite relevant proof texts (both reference and full quotation) that help establish the order."* The *ordo salutis* is the **logical** order (not necessarily the time order) in which the Holy Spirit applies Christ's redemption to the elect.
+The *ordo salutis* is the **logical** order (not necessarily the time order) in which the Holy Spirit applies Christ's redemption to the elect.
 
 | # | Step | Meaning | Key text |
 |---|---|---|---|
@@ -41,7 +37,7 @@ Chapell: *"List clearly the parts of the ordo as you understand it and cite rele
 
 Some theologians treat regeneration, faith, and repentance a little differently (for example, regeneration and effectual calling together, or conversion as one act with two sides). Know your order and the reasons for it. The **golden chain** of Rom. 8:29-30 gives the skeleton; John 6 and Eph. 2 show that the new birth comes before faith.
 
-Chapell's suggested proof texts (quote at least these):
+Proof texts:
 
 - **Rom. 8:29-30:** "For those whom he foreknew he also predestined to be conformed to the image of his Son, in order that he might be the firstborn among many brothers. And those whom he predestined he also called, and those whom he called he also justified, and those whom he justified he also glorified."
 - **Rom. 5:1:** "Therefore, since we have been justified by faith, we have peace with God through our Lord Jesus Christ."
@@ -53,7 +49,7 @@ Chapell's suggested proof texts (quote at least these):
 
 ## A Gospel Outline
 
-Chapell: *"Simply, briefly and clearly explain the gospel to an unbeliever and cite proof texts (both reference and full quotation) for each of your main points."* A simple, memorable shape: **God, man, Christ, response.**
+A simple, memorable shape: **God, man, Christ, response.**
 
 | Point | What to say | Proof text (ESV) |
 |---|---|---|

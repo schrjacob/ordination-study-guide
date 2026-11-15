@@ -2,8 +2,6 @@
 
 <!-- cols:1 continuous -->
 
-Chapell, church government sections C ("Church Officers," chapters 7-9) and D ("Church Courts," chapters 10-15). The **Tier** column ranks each question (1 = know cold, 2 = second pass, 3 = if time allows). Checked against the BCO text through the 2026 General Assembly (see the note on the [overview](index.md)).
-
 ## C. Church Officers (Chapters 7-9)
 
 | Tier | Question | Answer and proofs |

@@ -1,8 +1,5 @@
 # Minor Prophets (The Twelve)
 
-!!! tip "Exam level: book contents (summary)"
-    Chapell lists all twelve under **Book Contents**: know a one-line summary, roughly **when** each prophet ministered, and **to whom**. Use the key verses as hooks. A table that groups them by period is at the bottom of this page.
-
 ## Hosea (14)
 
 *God loves and reclaims his faithless people; he never lets go.*

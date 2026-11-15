@@ -2,7 +2,7 @@
 
 <!-- cols:1 continuous -->
 
-Chapell, theology section H. Standards: **WCF 19-20, 22-24; WLC 91-152, 154-196; WSC 39-84, 88-107.** Several of Chapell's "hot topics" appear here (theonomy, regulative principle, Sabbath, civil disobedience, divorce and remarriage). On those, Chapell asks you to state and defend **your own** view; the notes below give the Standards' position and the main alternatives. The **Tier** column ranks each question (1 = know cold, 2 = second pass, 3 = if time allows).
+Standards: **WCF 19-20, 22-24; WLC 91-152, 154-196; WSC 39-84, 88-107**. Hot topics: theonomy, regulative principle, Sabbath, civil disobedience, divorce and remarriage.
 
 ## The Law
 

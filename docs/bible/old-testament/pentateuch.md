@@ -1,8 +1,5 @@
 # The Pentateuch
 
-!!! info "Exam level: full outlines"
-    Chapell expects **outlines** for all five books of Moses: the main divisions with chapter numbers, plus the key chapters you can locate quickly.
-
 ## Genesis (50)
 
 *The Book of Beginnings*

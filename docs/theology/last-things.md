@@ -2,7 +2,7 @@
 
 <!-- cols:1 continuous -->
 
-Chapell, theology section J. Standards: **WCF 32-33; WLC 84-85, 87-90; WSC 37-38** (Chapell assigns **WSC 37-38** for memorization). The **Tier** column ranks each question (1 = know cold, 2 = second pass, 3 = if time allows).
+Standards: **WCF 32-33; WLC 84-85, 87-90; WSC 37-38**.
 
 !!! tip "Memorize WSC 37-38"
     **37.** *What benefits do believers receive from Christ at death?* "The souls of believers are, at their death, made perfect in holiness, and do immediately pass into glory; and their bodies, being still united to Christ, do rest in their graves until the resurrection."

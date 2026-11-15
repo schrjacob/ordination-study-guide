@@ -2,8 +2,6 @@
 
 <!-- cols:1 continuous -->
 
-Chapell: *"Discuss briefly the life and significance of the following. Include book(s) and chapter(s)."* Names marked ★ are on Chapell's list; the rest are common follow-ups.
-
 ## Key People
 
 | Person | Where | Significance |

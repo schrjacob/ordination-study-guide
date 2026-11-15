@@ -2,12 +2,9 @@
 
 <!-- cols:1 continuous -->
 
-Chapell, section A. These are often the opening questions of the Bible exam: easy points, so have them cold.
-
 | Question | Answer |
 |---|---|
 | How many books are in the Bible? | **66**: **39** in the Old Testament and **27** in the New Testament |
-| Have you read the entire Bible? | Be ready to answer honestly, and to say how you read it (plan, frequency) |
 | Where in the OT are the Ten Commandments? (two references) | **Exodus 20:1-17** and **Deuteronomy 5:6-21** |
 | Where in the NT is the law summarized? (two references, quote one) | **Matthew 22:37-40** (also Mark 12:29-31; Luke 10:27) and **Romans 13:8-10** (also Gal. 5:14; James 2:8) |
 | Two passages about the revelation of God in nature | **Psalm 19:1-6** and **Romans 1:18-20** (also Acts 14:15-17; 17:24-28) |

@@ -1,8 +1,5 @@
 # General Epistles & Revelation
 
-!!! info "Exam level"
-    **Outlines:** Hebrews and Revelation. **Summaries:** James, 1-2 Peter, 1-3 John, Jude.
-
 ## Hebrews (13)
 
 *The Supremacy of Christ: Better than All That Came Before, So Hold Fast*

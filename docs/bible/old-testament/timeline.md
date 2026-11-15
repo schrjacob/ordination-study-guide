@@ -2,9 +2,9 @@
 
 <!-- cols:1 continuous -->
 
-Chapell asks for *"a general outline of Old Testament history, including key dates"* and *"a general outline of Old Testament history from the perspective of the covenant, including key passages."* Dates follow the conservative chronology common in Reformed seminaries (e.g., an early Exodus, 1446 BC).
+Conservative chronology (early Exodus, 1446 BC).
 
-!!! tip "Anchor dates: memorize these first"
+!!! tip "Anchor dates"
     **2000** Abraham · **1446** Exodus · **1000** David · **931** division · **722** fall of Samaria · **586** fall of Jerusalem · **538** return · **516** second temple · **c. 430** Malachi, the end of OT revelation
 
     A rough "every 500 years" frame: **2000** Abraham, **1500** Moses, **1000** David, **500** return from exile, **0** Christ.
@@ -62,7 +62,7 @@ The Westminster Confession (ch. 7) frames all of Scripture by covenant: a **cove
 | **Davidic** (kingdom) | **2 Sam. 7**; 1 Chron. 17; Ps. 89; 132 | God and David's house | An eternal throne, house, and kingdom; God as Father to David's son | (throne/temple) |
 | **New** (fulfillment) | **Jer. 31:31-34**; Ezek. 36:26-27; Luke 22:20; Heb. 8-10 | God and his people, through Christ | Law written on the heart; full forgiveness; all will know the LORD; the Spirit given | Baptism and the Lord's Supper |
 
-!!! note "How the covenant of grace relates to the others (Chapell, Theology E)"
+!!! note "How the covenant of grace relates to the others"
     - **Abrahamic:** the clearest OT statement of the covenant of grace; justification by faith (Gen. 15:6; Rom. 4; Gal. 3).
     - **Mosaic:** an administration of the covenant of grace (Ex. 20:2: redemption comes *before* law). It also contains a typological "works" principle tied to life in the land.
     - **Noahic:** a common-grace covenant that preserves the world as the stage for redemption.

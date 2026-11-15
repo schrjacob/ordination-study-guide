@@ -2,7 +2,7 @@
 
 <!-- cols:1 continuous -->
 
-Chapell, theology sections A and B. Standards: **WCF 1; WLC 1-6, 154-160; WSC 3, 88-90.** The **Tier** column ranks each question (1 = know cold, 2 = second pass, 3 = if time allows).
+Standards: **WCF 1; WLC 1-6, 154-160; WSC 3, 88-90**.
 
 ## A. Introduction
 

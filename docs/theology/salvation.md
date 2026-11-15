@@ -2,7 +2,7 @@
 
 <!-- cols:1 continuous -->
 
-Chapell, theology sections F ("Salvation Accomplished") and G ("Salvation Applied"). Standards: **WCF 10-18; WLC 57-60, 67-68, 70-81, 153; WSC 29-36, 85-87.** The **Tier** column ranks each question (1 = know cold, 2 = second pass, 3 = if time allows). Chapell's first two questions here are answered on [Core Doctrines and Proofs](core-doctrines.md).
+Standards: **WCF 10-18; WLC 57-60, 67-68, 70-81, 153; WSC 29-36, 85-87**.
 
 ## F. Salvation Accomplished (WCF 10-13)
 
