@@ -241,3 +241,90 @@ body:has(.md-tabs__item--active:nth-child(5)) {
 .exam-cards > ul > li:nth-child(3) { --card-color: #00796b; }
 .exam-cards > ul > li:nth-child(4) { --card-color: #8d5524; }
 .exam-cards > ul > li:nth-child(5) { --card-color: #a52a3a; }
+
+/* Verse popups (assets/javascripts/bible-popups.js). */
+.md-typeset .bref {
+  cursor: pointer;
+  text-decoration: underline dotted;
+  text-decoration-color: var(--md-default-fg-color--lighter);
+  text-underline-offset: 0.18em;
+}
+.md-typeset .bref:hover,
+.md-typeset .bref:focus-visible {
+  text-decoration-color: var(--md-accent-fg-color);
+  outline: none;
+}
+.bpop {
+  position: absolute;
+  z-index: 10;
+  max-height: min(24rem, 60vh);
+  display: flex;
+  flex-direction: column;
+  background: var(--md-default-bg-color);
+  color: var(--md-typeset-color);
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-top: 3px solid var(--md-primary-fg-color);
+  border-radius: 0.2rem;
+  box-shadow: var(--md-shadow-z3);
+  font-size: 0.75rem;
+  line-height: 1.5;
+}
+.bpop[hidden] {
+  display: none;
+}
+.bpop__head {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  padding: 0.45em 0.8em;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+  font-weight: 700;
+}
+.bpop__ver {
+  font-size: 0.65rem;
+  font-weight: 600;
+  color: var(--md-default-fg-color--light);
+}
+.bpop__close {
+  margin-left: auto;
+  border: 0;
+  background: none;
+  color: var(--md-default-fg-color--light);
+  font-size: 1.1rem;
+  line-height: 1;
+  cursor: pointer;
+}
+.bpop__body {
+  padding: 0.5em 0.8em 0.7em;
+  overflow-y: auto;
+}
+.bpop__body sup {
+  font-size: 0.65em;
+  font-weight: 700;
+  color: var(--md-default-fg-color--light);
+  margin-right: 0.15em;
+}
+.bpop__ch {
+  margin: 0.4em 0 0.1em;
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--md-primary-fg-color);
+}
+.bpop__ch:first-child {
+  margin-top: 0;
+}
+.bpop__more,
+.bpop__omit,
+.bpop__loading {
+  color: var(--md-default-fg-color--light);
+}
+@media print {
+  .bpop {
+    display: none;
+  }
+  .md-typeset .bref {
+    text-decoration: none;
+  }
+}

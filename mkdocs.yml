@@ -4,7 +4,7 @@ site_url: https://schrjacob.github.io/ordination-study-guide/
 repo_url: https://github.com/schrjacob/ordination-study-guide
 edit_uri: edit/main/docs/
 
-copyright: Scripture quotations are from the ESV® Bible, © 2001 by Crossway. Used by permission.
+copyright: "Scripture quotations are from the ESV® Bible, © 2001 by Crossway. Used by permission. Verse popups: Berean Standard Bible (public domain)."
 
 theme:
   name: material
@@ -47,6 +47,7 @@ extra_css:
 extra_javascript:
   - assets/javascripts/exam-colors.js
   - assets/javascripts/tiers.js
+  - assets/javascripts/bible-popups.js
 
 nav:
   - Bible:

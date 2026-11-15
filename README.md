@@ -96,6 +96,16 @@ Rebuild after editing pages:
 
 Re-importing the file updates changed cards and keeps your review history (notes keep a stable ID). A card whose prompt changes counts as a new card.
 
+## Verse Popups
+
+Bible references on the website show the verse text on hover (mouse) or on click/tap. The text is the **Berean Standard Bible**, public domain since April 30, 2023, served from `docs/assets/bible/bsb/` (one JSON file per book, loaded when first needed). The script `docs/assets/javascripts/bible-popups.js` finds references in each page as it loads; nothing in the Markdown needs marking.
+
+To regenerate the text files, download https://bereanbible.com/bsb.txt and run:
+
+```bash
+.venv/Scripts/python scripts/build_bible.py path/to/bsb.txt
+```
+
 ## Publishing to GitHub Pages
 
 1. Create a GitHub repository and push this folder to its `main` branch.
