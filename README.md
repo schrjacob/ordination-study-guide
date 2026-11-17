@@ -94,7 +94,7 @@ Rebuild after editing pages:
 .venv/Scripts/python scripts/build_anki.py
 ```
 
-Re-importing the file updates changed cards and keeps your review history (notes keep a stable ID). A card whose prompt changes counts as a new card.
+Each card front says what to answer. Re-importing the file updates changed cards and keeps your review history (notes keep a stable ID). Cards a rebuild no longer makes are listed in `anki/retired.tsv` and arrive tagged `delete-me`: search `tag:delete-me` in Browse and delete them.
 
 ## Verse Popups
 

@@ -6,12 +6,12 @@
 
 | Question | Answer |
 |---|---|
-| Birth | c. 6-4 BC (Matt. 2:1, 16; Luke 1:5): before Herod the Great died in 4 BC |
-| Age at the beginning of his public ministry | "About thirty" (Luke 3:23) |
-| About how long? | About 3 years |
-| How do we know? | John mentions three Passovers (2:13, 23; 6:4; 11:55), and the "feast" of 5:1 may be a fourth |
-| About when did it begin? | AD 28-29 (Luke 3:1, "the fifteenth year of Tiberius"), or AD 26-27 (John 2:20: the temple, begun in 20/19 BC, had been under construction 46 years) |
-| Death | AD 30 (April 7) or AD 33 (April 3) |
+| When was Jesus born? | c. 6-4 BC (Matt. 2:1, 16; Luke 1:5): before Herod the Great died in 4 BC |
+| How old was Jesus when his public ministry began? | "About thirty" (Luke 3:23) |
+| About how long was his public ministry? | About 3 years |
+| How do we know it lasted about three years? | John mentions three Passovers (John 2:13, 23; 6:4; 11:55), and the "feast" of 5:1 may be a fourth |
+| About when did his public ministry begin? | AD 28-29 (Luke 3:1, "the fifteenth year of Tiberius"), or AD 26-27 (John 2:20: the temple, begun in 20/19 BC, had been under construction 46 years) |
+| When did Jesus die? | AD 30 (April 7) or AD 33 (April 3) |
 
 ### Year 1: Obscurity (Inauguration). Judea and Galilee
 
